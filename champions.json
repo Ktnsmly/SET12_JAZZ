@@ -1,0 +1,488 @@
+[
+    {
+        "name": "Ashe",
+        "traits": [
+            "Eldritch",
+            "Multistriker"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Blitzcrank",
+        "traits": [
+            "Honeymancy",
+            "Vanguard"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Elise",
+        "traits": [
+            "Eldritch",
+            "Shapeshifter"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Jax",
+        "traits": [
+            "Chrono",
+            "Multistriker"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Jayce",
+        "traits": [
+            "Portal",
+            "Shapeshifter"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Lillia",
+        "traits": [
+            "Faerie",
+            "Bastion"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Nomsy",
+        "traits": [
+            "Dragon",
+            "Hunter"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Poppy",
+        "traits": [
+            "Witchcraft",
+            "Bastion"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Seraphine",
+        "traits": [
+            "Faerie",
+            "Mage"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Soraka",
+        "traits": [
+            "Sugarcraft",
+            "Mage"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Twitch",
+        "traits": [
+            "Frost",
+            "Hunter"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Warwick",
+        "traits": [
+            "Frost",
+            "Vanguard"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Ziggs",
+        "traits": [
+            "Honeymancy",
+            "Incantor"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Zoe",
+        "traits": [
+            "Portal",
+            "Witchcraft",
+            "Scholar"
+        ],
+        "cost": 1
+    },
+    {
+        "name": "Ahri",
+        "traits": [
+            "Arcana",
+            "Scholar"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Akali",
+        "traits": [
+            "Pyro",
+            "Warrior",
+            "Multistriker"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Cassiopeia",
+        "traits": [
+            "Witchcraft",
+            "Incantor"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Galio",
+        "traits": [
+            "Portal",
+            "Vanguard",
+            "Mage"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Kassadin",
+        "traits": [
+            "Portal",
+            "Multistriker"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "KogMaw",
+        "traits": [
+            "Honeymancy",
+            "Hunter"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Nilah",
+        "traits": [
+            "Eldritch",
+            "Warrior"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Nunu",
+        "traits": [
+            "Honeymancy",
+            "Bastion"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Rumble",
+        "traits": [
+            "Sugarcraft",
+            "Vanguard",
+            "Blaster"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Shyvana",
+        "traits": [
+            "Dragon",
+            "Shapeshifter"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Syndra",
+        "traits": [
+            "Eldritch",
+            "Incantor"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Tristana",
+        "traits": [
+            "Faerie",
+            "Blaster"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Zilean",
+        "traits": [
+            "Frost",
+            "Chrono",
+            "Preserver"
+        ],
+        "cost": 2
+    },
+    {
+        "name": "Bard",
+        "traits": [
+            "Sugarcraft",
+            "Preserver",
+            "Scholar"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Ezreal",
+        "traits": [
+            "Portal",
+            "Blaster"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Hecarim",
+        "traits": [
+            "Arcana",
+            "Bastion",
+            "Multistriker"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Hwei",
+        "traits": [
+            "Frost",
+            "Blaster"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Jinx",
+        "traits": [
+            "Sugarcraft",
+            "Hunter"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Katarina",
+        "traits": [
+            "Faerie",
+            "Warrior"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Mordekaiser",
+        "traits": [
+            "Eldritch",
+            "Vanguard"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Neeko",
+        "traits": [
+            "Witchcraft",
+            "Shapeshifter"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Shen",
+        "traits": [
+            "Pyro",
+            "Bastion"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Swain",
+        "traits": [
+            "Frost",
+            "Shapeshifter"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Veigar",
+        "traits": [
+            "Honeymancy",
+            "Mage"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Vex",
+        "traits": [
+            "Chrono",
+            "Mage"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Wukong",
+        "traits": [
+            "Druid"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Fiora",
+        "traits": [
+            "Witchcraft",
+            "Warrior"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Gwen",
+        "traits": [
+            "Sugarcraft",
+            "Warrior"
+        ],
+        "cost": 3
+    },
+    {
+        "name": "Kalista",
+        "traits": [
+            "Faerie",
+            "Multistriker"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Karma",
+        "traits": [
+            "Chrono",
+            "Incantor"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Nami",
+        "traits": [
+            "Eldritch",
+            "Mage"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Nasus",
+        "traits": [
+            "Pyro",
+            "Shapeshifter"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Olaf",
+        "traits": [
+            "Frost",
+            "Hunter"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Rakan",
+        "traits": [
+            "Faerie",
+            "Preserver"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Ryze",
+        "traits": [
+            "Portal",
+            "Scholar"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Tahm Kench",
+        "traits": [
+            "Arcana",
+            "Vanguard"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Taric",
+        "traits": [
+            "Portal",
+            "Bastion"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Varus",
+        "traits": [
+            "Pyro",
+            "Blaster"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Briar",
+        "traits": [
+            "Eldritch",
+            "Shapeshifter"
+        ],
+        "cost": 5
+    },
+    {
+        "name": "Camille",
+        "traits": [
+            "Chrono",
+            "Multistriker"
+        ],
+        "cost": 5
+    },
+    {
+        "name": "Diana",
+        "traits": [
+            "Frost",
+            "Bastion"
+        ],
+        "cost": 5
+    },
+    {
+        "name": "Milio",
+        "traits": [
+            "Faerie",
+            "Scholar"
+        ],
+        "cost": 4
+    },
+    {
+        "name": "Morgana",
+        "traits": [
+            "Witchcraft",
+            "Preserver"
+        ],
+        "cost": 5
+    },
+    {
+        "name": "N&Y",
+        "traits": [
+            "Portal",
+            "Mage"
+        ],
+        "cost": 5
+    },
+    {
+        "name": "Smolder",
+        "traits": [
+            "Dragon",
+            "Blaster"
+        ],
+        "cost": 5
+    },
+    {
+        "name": "Xerath",
+        "traits": [
+            "Arcana",
+            "Ascendant"
+        ],
+        "cost": 5
+    }
+]
